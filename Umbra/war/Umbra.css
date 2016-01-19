@@ -1,0 +1,79 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #777777;
+  margin: 40px 0px 70px;
+  text-align: center;
+}
+.search_bar {
+
+	
+}
+
+.preferences {
+}
+.crime_bar {
+	background-color: #4a4341;
+	color: #FFFFFF;
+}
+
+.signout_link {
+	padding: 5px 0 5px 10px;
+	margin-left: 10px;
+	background-color: #4a4341;
+	color: #FFFFFF;
+	width: 75px;
+}
+.tab_panel {
+	background-color: #FFA500;
+}
+.account_bar { 
+	background-color: #FFA500;
+	padding: 10px 79px 10px 10px;
+	width: 500px;
+}
+.search {
+	background-color: #FFA500;
+	padding: 10px 53px 10px 10px;
+}
+.dbButton{
+	align:right;
+}
+.header{
+	font-weight: bold;
+}
+.background {
+	width: 500px;
+	background-color: #4a4341;
+}
+.mapPanel {
+	align: center;
+	background-color: #4a4341;
+}
+.sendButton {
+  display: block;
+  font-size: 16pt;
+  
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+  width: 400px;
+}
+
+.dialogVPanel {
+  margin: 5px;
+}
+
+.serverResponseLabelError {
+  color: red;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+  margin: 15px 6px 6px;
+}
